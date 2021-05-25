@@ -1,0 +1,1 @@
+# Pulling-COVID-19-data-from-MySQL-DB-using-Python-and-SQL
